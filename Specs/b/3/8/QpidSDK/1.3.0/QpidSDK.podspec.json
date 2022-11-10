@@ -14,7 +14,7 @@
   },
   "social_media_url": "https://www.facebook.com/quintetsystems",
   "source": {
-    "git": "http://rep.yellomarket.co.kr:8000/Qpid/QpidSDK-pod.git",
+    "git": "https://rep.yellomarket.co.kr:8000/Qpid/QpidSDK-pod.git",
     "tag": "1.3.0"
   },
   "platforms": {
